@@ -1,0 +1,9 @@
+{
+	"solution": {
+		"path": "Chip2Lib.sln",
+    		"projects": [
+      			"src\\Core\\Chip2.Core\\Chip2.Core.csproj",
+      			"tests\\Core\\Chip2.Core.Tests\\Chip2.Core.Tests.csproj"
+    		]
+	}
+}
